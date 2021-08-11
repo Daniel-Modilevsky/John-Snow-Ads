@@ -25,8 +25,8 @@ Single page application that pop ads on game of thrones map by random coordinate
 
 
 ## 💿‍ Dry run
-- [SWAGGER/Docs](https://fire102.herokuapp.com/docs/)
-![Use Case](https://im3.ezgif.com/tmp/ezgif-3-318f032a0ecd.gif)
+![mem](https://im3.ezgif.com/tmp/ezgif-3-318f032a0ecd.gif)
+
 
 
 
