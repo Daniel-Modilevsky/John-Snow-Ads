@@ -25,7 +25,7 @@ Single page application that pop ads on game of thrones map by random coordinate
 
 
 ## 💿‍ Dry run
-**![mem](https://im3.ezgif.com/tmp/ezgif-3-318f032a0ecd.gif)
+**![mem](https://i.ibb.co/zHLcdwR/ezgif-com-gif-maker-2.gif)
 
 
 
